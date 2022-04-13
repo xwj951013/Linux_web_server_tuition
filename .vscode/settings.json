@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "__threading_support": "c",
+        "types.h": "c",
+        "list": "cpp",
+        "vector": "cpp"
+    }
+}
